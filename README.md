@@ -2,8 +2,10 @@
   # README Generator
 
   ##  Description
-
+  
+  ```bash
   Generating readme markdown file per answers from command-line prompt.
+  ```
 
   ## Table of Contents
 
