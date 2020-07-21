@@ -28,7 +28,7 @@
 
   ## Contribution
 
-  by Ruohan
+  Made with ❤️ by Ruohan
 
   ## License
 
