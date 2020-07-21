@@ -7,14 +7,20 @@
 
   ## Table of Contents
 
-  *[Installation](#installation)
-  *[Usage](#usage)
-  *[Contribution](#contribution)
-  *[License](#license)
-  *[Badges](#badges)
-  *[GitHub](#github)
-  *[Contact](#contact)
-  *[Tests](#tests)
+  [Installation](#installation)
+  
+  [Usage](#usage)
+  
+  [Contribution](#contribution)
+  
+  [License](#license)
+  
+  [Badges](#badges)
+  
+  - [GitHub](#github)
+  
+  - [Contact](#contact)
+  - [Tests](#tests)
 
   ## Installation
 
