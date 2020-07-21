@@ -33,7 +33,7 @@
   MIT License
 
   ## Badges
-  ![badmath](https://img.shields.io/conda/l/conda-forge/setuptools?color=Blue&label=License&logo=MIT License}&logoColor=blue&style=plastic)
+  ![badmath](https://img.shields.io/conda/l/conda-forge/setuptools?color=Blue&label=License&logo=MIT&logoColor=blue&style=plastic)
 
   ## GitHub
 
