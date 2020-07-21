@@ -52,7 +52,7 @@ function generateMarkdown(data) {
 
   ## Badges
 
-  [github-languages-image]: ![Conda - License](https://img.shields.io/conda/l/conda-forge/setuptools?color=Blue&label=License&logo=${license}&logoColor=blue&style=plastic)
+  ![badmath](https://img.shields.io/conda/l/conda-forge/setuptools?color=Blue&label=License&logo=${license}&logoColor=blue&style=plastic)
 
   ## GitHub
 

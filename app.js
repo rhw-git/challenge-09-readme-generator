@@ -45,7 +45,7 @@ const questions = () => {
         "GNU AGPLv3",
         "GNU LGPLv3",
         "Mozilla Public License",
-        "MIT License",
+        "MIT",
         "ISC",
         "Boot Software License 1.0",
         "The Unlicense",

@@ -1,48 +1,50 @@
-# README Generator
 
-## Description
+  # README Generator
 
-Fenerating reame markdown file per answers from command-line prompt
+  ##  Description
 
-## Table of Contents
+  Generating readme markdown file per answers from command-line prompt
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contribution](#contribution)
-- [License](#license)
-- [Badges](#badges)
-- [GitHub](#github)
-- [Contact](#contact)
-- [Tests](#tests)
+  ## Table of Contents
 
-## Installation
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contribution](#contribution)
+  - [License](#license)
+  - [Badges](#badges)
+  - [GitHub](#github)
+  - [Contact](#contact)
+  - [Tests](#tests)
 
-You just need to git clone this repo to your local drive and start to use it.
+  ## Installation
 
-## Usage
+  You just need to git clone this repo to your local drive and start to use it.
 
-Generate README.md file for your next project / applicaiton.
+  ## Usage
 
-## Contribution
+  Generate README.md file for your next project / applicaiton!
 
-Made with ❤️ by Ruohan
+  ## Contribution
 
-## License
+  Made with ❤️ by Ruohan
 
-MIT License
+  ## License
 
-## Badges
+  MIT License
 
-![badmath](https://img.shields.io/conda/l/conda-forge/setuptools?color=Blue&label=License&logo=MIT License&logoColor=blue&style=plastic)
+  ## Badges
 
-## GitHub
+  ![badmath](https://img.shields.io/conda/l/conda-forge/setuptools?color=Blue&label=License&logo=MIT License&logoColor=blue&style=plastic)
 
-My GitHub link: (https://github.com/rhw-git)
+  ## GitHub
 
-## Contact
+  My GitHub link: (https://github.com/rhw-git)
 
-You can reach me by email: (ruohanw89@gmail.com)
+  ## Contact
 
-## Tests
+  You can reach me by email: (ruohanw89@gmail.com)
 
-test pending
+  ## Tests
+
+  test instruction pending
+  
