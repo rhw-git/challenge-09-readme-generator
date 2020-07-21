@@ -3,7 +3,7 @@
 
   ##  Description
 
-  Fenerating reame markdown file per answers from command-line prompt
+  Generating readme markdown file per answers from command-line prompt
 
   ## Table of Contents
 
@@ -22,7 +22,7 @@
 
   ## Usage
 
-  Generate README.md file for your next project / applicaiton.
+  Generate README.md file for your next project / applicaiton!
 
   ## Contribution
 
@@ -34,7 +34,7 @@
 
   ## Badges
 
-  [github-languages-image]: ![Conda - License](https://img.shields.io/conda/l/conda-forge/setuptools?color=Blue&label=License&logo=MIT License&logoColor=blue&style=plastic)
+  ![badmath](https://img.shields.io/conda/l/conda-forge/setuptools?color=Blue&label=License&logo=MIT&logoColor=blue&style=plastic)
 
   ## GitHub
 
@@ -46,5 +46,4 @@
 
   ## Tests
 
-  test pending
-  
+  test instruction pending
